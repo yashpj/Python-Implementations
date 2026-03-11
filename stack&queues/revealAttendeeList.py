@@ -15,3 +15,4 @@ def rev(arr):
 
 print(rev([17,13,11,2,3,5,7])) 
 print(rev([1,1000]))  
+print(rev([1,2,3,-1,-2]))
